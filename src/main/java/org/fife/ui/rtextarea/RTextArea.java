@@ -1633,6 +1633,13 @@ public class RTextArea extends RTextAreaBase implements Printable {
 
 	}
 
+	public RUndoManager getUndoManager() {
+		return undoManager;
+	}
+
+	public void setUndoManager(RUndoManager undoManager) {
+		this.undoManager = undoManager;
+	}
 
 	/**
 	 * Modified from <code>MutableCaretEvent</code> in
