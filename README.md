@@ -1,3 +1,5 @@
+# Stating from Arduino IDE 1.8.2, this fork is no longer in use. All issues/PRs should be submitted to the [mainline repo](https://github.com/bobbylight/RSyntaxTextArea). This repository won't be deleted for future reference.
+
 RSyntaxTextArea is a customizable, syntax highlighting text component for Java Swing applications.  Out of the box, it supports syntax highlighting for over 30 programming languages, code folding, search and replace, and has add-on libraries for code completion and spell checking.  Syntax highlighting for additional languages [can be added](https://github.com/bobbylight/RSyntaxTextArea/wiki) via tools such as [JFlex](http://jflex.de).
 
 RSyntaxTextArea is available under a [modified BSD license](https://github.com/bobbylight/RSyntaxTextArea/blob/master/src/main/dist/RSyntaxTextArea.License.txt).  For more information, visit [http://fifesoft.com/rsyntaxtextarea](http://fifesoft.com/rsyntaxtextarea).
